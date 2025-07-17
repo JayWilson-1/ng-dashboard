@@ -20,7 +20,7 @@
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://jaywilson.github.io/natural-grocers-dashboard",
+  "homepage": "https://jaywilson-1.github.io/ng-dashboard",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
