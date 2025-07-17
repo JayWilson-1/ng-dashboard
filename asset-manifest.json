@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ng-dashboard/static/css/main.fabc7aab.css",
+    "main.js": "/ng-dashboard/static/js/main.fd533865.js",
+    "static/js/453.463a0e92.chunk.js": "/ng-dashboard/static/js/453.463a0e92.chunk.js",
+    "index.html": "/ng-dashboard/index.html",
+    "main.fabc7aab.css.map": "/ng-dashboard/static/css/main.fabc7aab.css.map",
+    "main.fd533865.js.map": "/ng-dashboard/static/js/main.fd533865.js.map",
+    "453.463a0e92.chunk.js.map": "/ng-dashboard/static/js/453.463a0e92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fabc7aab.css",
+    "static/js/main.fd533865.js"
+  ]
+}
